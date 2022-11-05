@@ -1,0 +1,32 @@
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #ffff00;
+    padding: 0 10px
+}
+
+a {
+    color: #ffff00;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2
+}
+
+figure {
+    display: inline-block;
+    margin: 20px;
+    /* adjust as needed */
+}
+
+figure img {
+    vertical-align: top;
+}
+
+figure figcaption {
+    text-align: center;
+}
